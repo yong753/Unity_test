@@ -1,0 +1,9 @@
+[submodule "Assets/YW/Core"]
+	path = Assets/YW/Core
+	url = git@bitbucket.org-work:yunwoopc-dev/core.git
+[submodule "Assets/Plugins/UniRx"]
+	path = Assets/Plugins/UniRx
+	url = git@github.com:Unity-Plugins/UniRx.git
+[submodule "Assets/Plugins/Zenject"]
+	path = Assets/Plugins/Zenject
+	url = git@github.com:Unity-Plugins/Extenject.git
